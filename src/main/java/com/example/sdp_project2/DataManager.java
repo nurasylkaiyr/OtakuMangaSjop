@@ -10,7 +10,7 @@ public class DataManager {
     private String data;
 
     private DataManager() {
-        // Initialize data as needed
+
     }
 
     public static DataManager getInstance() {

@@ -108,7 +108,7 @@
                   <Font size="24.0" />
                </font>
             </Label>
-            <Label fx:id="selectedPrdouctTitle" layoutX="295.0" layoutY="136.0" prefHeight="35.0" prefWidth="250.0">
+            <Label fx:id="selectedProductTitle" layoutX="295.0" layoutY="136.0" prefHeight="35.0" prefWidth="250.0" text="Product not selected">
                <font>
                   <Font size="18.0" />
                </font>

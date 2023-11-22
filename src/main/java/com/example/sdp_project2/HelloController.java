@@ -146,7 +146,7 @@ public class HelloController {
     }
     /*=========================CART==============================*/
     @FXML
-    private Label selectedPrdouctTitle;
+    private Label selectedProductTitle;
     @FXML
     private Button add_disc;
 
